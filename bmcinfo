@@ -5,6 +5,7 @@ patch-1
 Hey Abhishek here
 =======
 
+<<<<<<< HEAD
 patch-1
 This is Aditi
 =======
@@ -15,3 +16,8 @@ added some text in local repo
 added some text in github
 
 final edit for push
+=======
+Added by Siddharth Shenoy from Pune
+
+This is a change made through the local repo
+>>>>>>> ea343e888192c06bfcd83d2fbf9ae65f5f4f27f0
